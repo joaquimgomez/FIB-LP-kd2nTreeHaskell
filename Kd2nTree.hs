@@ -1,6 +1,6 @@
 {-
 	Implementation of kd 2^n-Tree Structure in Haskell with generic points of Point type class
-	by Joaquim Gómez Sánchez
+	by joaquimgomez
 	Definitions:
 		-> Class Point p
 		-> Point3d data (instanced as: Point, Show and Eq)
