@@ -1,4 +1,4 @@
-# FIB-LP-Kd2nTreeHaskell
+# FIB-LP-kd2nTreeHaskell
 
 This basic repository contains a vanilla implementation of kd 2n-Trees Structures in Haskell. The kd-Tree is a type of structure that provides us a simpler way to save a set of points (of a k-dimensions space). The present variation provides us a way to generalize the quadtrees and the octrees.
 
